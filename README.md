@@ -1,2 +1,2 @@
 # SmartHabit-LangGraph
-Track and manage your daily habits intelligently using LangGraph and AI-powered automation
+SmartHabit: Track and manage daily habits intelligently using LangGraph, AI automation, and Groq LLM
